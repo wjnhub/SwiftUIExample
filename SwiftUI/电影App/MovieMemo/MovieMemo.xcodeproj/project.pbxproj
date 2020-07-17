@@ -306,9 +306,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MovieMemo/Preview Content\"";
-				DEVELOPMENT_TEAM = 5PTQ66JYU9;
+				DEVELOPMENT_TEAM = ESC3HUDU65;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = MovieMemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -326,9 +327,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"MovieMemo/Preview Content\"";
-				DEVELOPMENT_TEAM = 5PTQ66JYU9;
+				DEVELOPMENT_TEAM = ESC3HUDU65;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = MovieMemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
